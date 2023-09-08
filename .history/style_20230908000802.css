@@ -11,9 +11,14 @@ header{
 
 .info {
     background-color: #f4f4f4;
-    padding: 30px;
-    border-radius: 5px;   
-    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.info h2 {
+    font-size: 24px;
+    color: #333;
 }
 
 .info p {

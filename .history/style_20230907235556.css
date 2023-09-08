@@ -9,14 +9,19 @@ header{
     color: white;
 }
 
-.info {
+.academia-aside {
     background-color: #f4f4f4;
-    padding: 30px;
-    border-radius: 5px;   
-    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
 }
 
-.info p {
+.academia-aside h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.academia-aside p {
     font-size: 16px;
     color: #666;
 }
