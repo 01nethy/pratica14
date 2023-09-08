@@ -1,0 +1,22 @@
+#fundo{
+    
+    background: url(background2.jpg) top left;
+    background-size: cover;
+  
+}
+
+header{
+    color: white;
+}
+
+.info {
+    background-color: #f4f4f4;
+    padding: 30px;
+    border-radius: 5px;   
+    text-align: center;
+}
+
+.info p {
+    font-size: 16px;
+    color: #666;
+}

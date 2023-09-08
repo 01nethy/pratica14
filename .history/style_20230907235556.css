@@ -1,0 +1,27 @@
+#fundo{
+    
+    background: url(background2.jpg) top left;
+    background-size: cover;
+  
+}
+
+header{
+    color: white;
+}
+
+.academia-aside {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.academia-aside h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.academia-aside p {
+    font-size: 16px;
+    color: #666;
+}
